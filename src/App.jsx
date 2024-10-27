@@ -1,3 +1,4 @@
+import Nav from './Components/Nav';
 import Hero from './sections/Hero';
 import Footer from './sections/Footer';
 import CustomerReviews from './sections/CustomerReviews';
@@ -6,7 +7,7 @@ import SpecialOffer from './sections/SpecialOffer';
 import Subscribe from './sections/Subscribe';
 import SuperQuality from './sections/SuperQuality';
 import Popular from './sections/Popular';
-import Nav from './Components/Nav';
+
 
 const App =()=>(
 <main className="relative">
