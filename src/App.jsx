@@ -1,4 +1,4 @@
-import Nav from './Components/Nav';
+import Nav from './sections/Nav';
 import Hero from './sections/Hero';
 import Footer from './sections/Footer';
 import CustomerReviews from './sections/CustomerReviews';
