@@ -1,5 +1,5 @@
 import { shoe8 } from "../assets/images"
-import Button from "../Components/Button"
+import Button from "../components/Button"
 const SuperQuality = () => {
   return (
     <section id="about-us" className="flex justify-between items-center max-lg:felx-col gap-10 w-full max-container">
